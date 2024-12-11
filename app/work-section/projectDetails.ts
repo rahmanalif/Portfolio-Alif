@@ -47,7 +47,7 @@ export type ProjectProps = {
       description:
         "Efficient A* pathfinding algorithm, smooth player movement, and interactive environment with layered obstacles.",
       technologies: ["Unity 2D", "C#", "Canva"],
-      github: "https://github.com/",
+      github: "https://github.com/rahmanalif/2d-pathfinding-movement-Game",
       demo: "https://www.youtube.com/@frontendadvance",
       image: require(".//../../public/projects/A.png"),
       available: true,
